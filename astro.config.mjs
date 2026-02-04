@@ -26,6 +26,10 @@ export default defineConfig({
               label: "A Brief History of Agile",
               slug: "what-is-agile-and-where-it-came-from/a-brief-history-of-agile",
             },
+            {
+              label: "Why Is Design Missing in Agile?",
+              slug: "what-is-agile-and-where-it-came-from/why-is-design-missing-in-agile",
+            },
           ],
         },
       ],
