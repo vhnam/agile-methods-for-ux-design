@@ -1,49 +1,9 @@
-# Starlight Starter Kit: Basics
+# Agile Methods for UX Design
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+- Get excited when you discover that agile isn't just about speed; it's about clarity, confidence, and doing work that delivers better results faster. As AI reshapes how teams work, you stay in demand when you can use timeless human-centered design skills to bring clarity and direction to fast decisions and keep projects focused on real human needs. Agile skills help you stay competitive in any job and across all industries. Today, 95% of organizations use Agile development methods to quickly adapt and avoid delays, bottlenecks, and costly failures in the design and development process.
 
-```
-pnpm create astro@latest -- --template starlight
-```
+- Make yourself invaluable with the high-demand skills that companies are looking for. Agile methodologies often top job requirement lists because they help teams deliver more value in less time. Agile empowers you to feel in control, make faster, smarter decisions, and do meaningful work without burning out. Whether you're in User Experience (UX) Design, marketing, or management, this course will give you the skills you need to find solutions in less time and drive business success with higher-quality deliverables. You'll improve communication with developers, product managers, and other stakeholders, breaking down silos for a more collaborative team dynamic. You'll learn the secret to navigating different Agile environments with ease and experience the satisfaction of real progress.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- Gain confidence and credibility as you get hands-on with proven techniques like continuous discovery, Minimum Viable Products (MVPs), and design slicing. It's easier than you think! No matter your background, you can easily learn to master Agile Methods for UX Design. You'll get comfortable with Agile patterns and anti-patterns and learn how to tailor your design and research to different teams. With step-by-step guidance and downloadable resources like the glossary of Agile terms and the product roadmap, you'll have everything you need to excel in any Agile environment.
 
-## 🚀 Project Structure
-
-Inside of your Astro + Starlight project, you'll see the following folders and files:
-
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
-
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
-
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
-
-Static assets, like favicons, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+Link: https://www.interaction-design.org/courses/agile-methods-for-ux-design
