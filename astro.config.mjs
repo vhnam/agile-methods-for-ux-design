@@ -38,6 +38,10 @@ export default defineConfig({
               label: "What Does an Agile Team Look Like?",
               slug: "what-is-agile-and-where-it-came-from/what-does-an-agile-team-look-like",
             },
+            {
+              label: "Common Agile Practices and Jargon",
+              slug: "what-is-agile-and-where-it-came-from/common-agile-practices-and-jargon",
+            },
           ],
         },
       ],
