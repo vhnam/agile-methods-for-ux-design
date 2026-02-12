@@ -34,6 +34,10 @@ export default defineConfig({
               label: "Common Agile Rituals and Meetings",
               slug: "what-is-agile-and-where-it-came-from/common-agile-rituals-and-meetings",
             },
+            {
+              label: "What Does an Agile Team Look Like?",
+              slug: "what-is-agile-and-where-it-came-from/what-does-an-agile-team-look-like",
+            },
           ],
         },
       ],
