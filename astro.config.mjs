@@ -30,6 +30,10 @@ export default defineConfig({
               label: "Why Is Design Missing in Agile?",
               slug: "what-is-agile-and-where-it-came-from/why-is-design-missing-in-agile",
             },
+            {
+              label: "Common Agile Rituals and Meetings",
+              slug: "what-is-agile-and-where-it-came-from/common-agile-rituals-and-meetings",
+            },
           ],
         },
       ],
