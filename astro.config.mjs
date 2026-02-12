@@ -42,6 +42,10 @@ export default defineConfig({
               label: "Common Agile Practices and Jargon",
               slug: "what-is-agile-and-where-it-came-from/common-agile-practices-and-jargon",
             },
+            {
+              label: "Design Meetings and Practices in Agile",
+              slug: "what-is-agile-and-where-it-came-from/design-meetings-and-practices-in-agile",
+            },
           ],
         },
       ],
