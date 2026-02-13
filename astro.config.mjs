@@ -59,6 +59,10 @@ export default defineConfig({
               label: "Welcome and Introduction",
               slug: "agile-patterns-anti-patterns-and-myths/welcome-and-introduction",
             },
+            {
+              label: "There Is No Agile",
+              slug: "agile-patterns-anti-patterns-and-myths/there-is-no-agile",
+            },
           ],
         },
       ],
