@@ -52,6 +52,15 @@ export default defineConfig({
             },
           ],
         },
+        {
+          label: "Agile Patterns, Anti-Patterns, and Myths",
+          items: [
+            {
+              label: "Welcome and Introduction",
+              slug: "agile-patterns-anti-patterns-and-myths/welcome-and-introduction",
+            },
+          ],
+        },
       ],
     }),
   ],
