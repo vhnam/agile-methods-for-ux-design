@@ -67,6 +67,10 @@ export default defineConfig({
               label: "Agile Myths",
               slug: "agile-patterns-anti-patterns-and-myths/agile-myths",
             },
+            {
+              label: "Agile Anti-Pattern",
+              slug: "agile-patterns-anti-patterns-and-myths/agile-anti-pattern",
+            },
           ],
         },
       ],
