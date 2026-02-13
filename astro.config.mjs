@@ -75,6 +75,10 @@ export default defineConfig({
               label: "Agile Patterns in Large Organizations",
               slug: "agile-patterns-anti-patterns-and-myths/agile-patterns-in-large-organizations",
             },
+            {
+              label: "Lesson 2 Recap",
+              slug: "agile-patterns-anti-patterns-and-myths/recap",
+            },
           ],
         },
       ],
