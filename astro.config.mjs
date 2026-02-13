@@ -46,6 +46,10 @@ export default defineConfig({
               label: "Design Meetings and Practices in Agile",
               slug: "what-is-agile-and-where-it-came-from/design-meetings-and-practices-in-agile",
             },
+            {
+              label: "Lesson 1 Recap",
+              slug: "what-is-agile-and-where-it-came-from/recap",
+            },
           ],
         },
       ],
