@@ -2,6 +2,8 @@
 title: There Is No Agile
 ---
 
+![cons representing the common patterns found in agile teams: Cross-Functional, Work Autonomously, Iterate, Enable Excellent Communication, Constant Improvement.](../../../assets/images/agile-patterns-anti-patterns-and-myths/there-is-no-agile.avif)
+
 ## Core Patterns of Agile Teams
 
 Well-functioning agile teams share consistent structural and behavioral patterns. Dysfunctional teams tend to display predictable anti-patterns.
