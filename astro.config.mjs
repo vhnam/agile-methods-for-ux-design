@@ -71,6 +71,10 @@ export default defineConfig({
               label: "Agile Anti-Pattern",
               slug: "agile-patterns-anti-patterns-and-myths/agile-anti-pattern",
             },
+            {
+              label: "Agile Patterns in Large Organizations",
+              slug: "agile-patterns-anti-patterns-and-myths/agile-patterns-in-large-organizations",
+            },
           ],
         },
       ],
