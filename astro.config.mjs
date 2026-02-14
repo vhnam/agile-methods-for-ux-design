@@ -92,6 +92,10 @@ export default defineConfig({
               label: "Continuous Discovery",
               slug: "how-researchers-can-succeed-on-agile-teams/continuous-discovery",
             },
+            {
+              label: "Innovation vs Incremental Improvement",
+              slug: "how-researchers-can-succeed-on-agile-teams/innovation-vs-incremental-improvement",
+            },
           ],
         },
       ],
