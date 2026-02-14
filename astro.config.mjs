@@ -88,6 +88,10 @@ export default defineConfig({
               label: "Welcome and Introduction",
               slug: "how-researchers-can-succeed-on-agile-teams/welcome-and-introduction",
             },
+            {
+              label: "Continuous Discovery",
+              slug: "how-researchers-can-succeed-on-agile-teams/continuous-discovery",
+            },
           ],
         },
       ],
