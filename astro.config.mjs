@@ -104,6 +104,10 @@ export default defineConfig({
               label: "Collaborating with Your Team for Research",
               slug: "how-researchers-can-succeed-on-agile-teams/collaborating-with-your-team-for-research",
             },
+            {
+              label: "When Generative Research Gets Done",
+              slug: "how-researchers-can-succeed-on-agile-teams/when-generative-research-gets-done",
+            },
           ],
         },
       ],
