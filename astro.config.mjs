@@ -81,6 +81,15 @@ export default defineConfig({
             },
           ],
         },
+        {
+          label: "How Researchers Can Succeed on Agile Teams",
+          items: [
+            {
+              label: "Welcome and Introduction",
+              slug: "how-researchers-can-succeed-on-agile-teams/welcome-and-introduction",
+            },
+          ],
+        },
       ],
     }),
   ],
