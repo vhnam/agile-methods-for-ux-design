@@ -96,6 +96,10 @@ export default defineConfig({
               label: "Innovation vs Incremental Improvement",
               slug: "how-researchers-can-succeed-on-agile-teams/innovation-vs-incremental-improvement",
             },
+            {
+              label: "Quicker and More Targeted Research and Experiments",
+              slug: "how-researchers-can-succeed-on-agile-teams/quicker-and-more-targeted-research-and-experiments",
+            },
           ],
         },
       ],
