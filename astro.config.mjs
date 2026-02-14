@@ -100,6 +100,10 @@ export default defineConfig({
               label: "Quicker and More Targeted Research and Experiments",
               slug: "how-researchers-can-succeed-on-agile-teams/quicker-and-more-targeted-research-and-experiments",
             },
+            {
+              label: "Collaborating with Your Team for Research",
+              slug: "how-researchers-can-succeed-on-agile-teams/collaborating-with-your-team-for-research",
+            },
           ],
         },
       ],
