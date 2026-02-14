@@ -108,6 +108,14 @@ export default defineConfig({
               label: "When Generative Research Gets Done",
               slug: "how-researchers-can-succeed-on-agile-teams/when-generative-research-gets-done",
             },
+            {
+              label: "Sharing Research Results in an Agile Way",
+              slug: "how-researchers-can-succeed-on-agile-teams/sharing-research-results-in-an-agile-way",
+            },
+            {
+              label: "Lesson 3 Recap",
+              slug: "how-researchers-can-succeed-on-agile-teams/recap",
+            },
           ],
         },
       ],
