@@ -125,6 +125,10 @@ export default defineConfig({
               label: "Welcome and Introduction",
               slug: "how-designers-can-succeed-on-agile-teams/welcome-and-introduction",
             },
+            {
+              label: "Designing the Smallest Possible Thing",
+              slug: "how-designers-can-succeed-on-agile-teams/designing-the-smallest-possible-thing",
+            },
           ],
         },
       ],
