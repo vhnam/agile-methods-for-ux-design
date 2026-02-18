@@ -141,6 +141,10 @@ export default defineConfig({
               label: "Design Refactoring and Iterating",
               slug: "how-designers-can-succeed-on-agile-teams/design-refactoring-and-iterating",
             },
+            {
+              label: "Design Systems",
+              slug: "how-designers-can-succeed-on-agile-teams/design-systems",
+            },
           ],
         },
       ],
