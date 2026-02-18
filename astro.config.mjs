@@ -118,6 +118,15 @@ export default defineConfig({
             },
           ],
         },
+        {
+          label: "How Designers Can Succeed on Agile Teams",
+          items: [
+            {
+              label: "Welcome and Introduction",
+              slug: "how-designers-can-succeed-on-agile-teams/welcome-and-introduction",
+            },
+          ],
+        },
       ],
     }),
   ],
