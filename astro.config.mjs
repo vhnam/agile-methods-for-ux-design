@@ -149,6 +149,10 @@ export default defineConfig({
               label: "Acceptance Criteria",
               slug: "how-designers-can-succeed-on-agile-teams/acceptance-criteria",
             },
+            {
+              label: "Lesson 4 Recap",
+              slug: "how-designers-can-succeed-on-agile-teams/recap",
+            },
           ],
         },
       ],
