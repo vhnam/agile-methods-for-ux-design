@@ -137,6 +137,10 @@ export default defineConfig({
               label: "Design Slices",
               slug: "how-designers-can-succeed-on-agile-teams/design-slices",
             },
+            {
+              label: "Design Refactoring and Iterating",
+              slug: "how-designers-can-succeed-on-agile-teams/design-refactoring-and-iterating",
+            },
           ],
         },
       ],
