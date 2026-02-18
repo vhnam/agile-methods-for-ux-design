@@ -133,6 +133,10 @@ export default defineConfig({
               label: "Designing from the Outside In",
               slug: "how-designers-can-succeed-on-agile-teams/designing-from-the-outside-in",
             },
+            {
+              label: "Design Slices",
+              slug: "how-designers-can-succeed-on-agile-teams/design-slices",
+            },
           ],
         },
       ],
